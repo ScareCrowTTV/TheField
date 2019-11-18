@@ -1,0 +1,53 @@
+remove scarecrow parallax 1 text and add in in a h1 or smth so it scales better
+
+logos For horizontal layout:
+
+– 250 px x 150 px
+– 350 px x 75 px
+– 400 px x 100 px
+
+For vertical (square) layout:
+
+– 160 px x 160 px
+
+
+Facebook:
+
+Link posts: 1200 x 628 px
+Image posts: 1200 x 630 px
+Cover image: 820 ? 312 px
+Profile image: 180 ? 180 px
+
+Twitter:
+
+Image posts: 1024 x 512 px
+Cover image: 1500 ? 500 px
+Profile image: 400 x 400 px
+
+Instagram:
+
+Image posts: 1080 x 1080 px
+Profile image: 180 x 180 px
+
+YouTube:
+
+Thumbnail image: 1280 x 720 px
+Cover image: 2560 x 1440 px
+Profile image: 800 x 800 px
+
+Pinterest:
+
+Image posts: 735 x 1102 px
+Profile image: 240 x 240 px
+
+LinkedIn:
+
+Link posts: 1200 ? 628 px
+Image posts: 1200 x 1200 px
+Cover image: 1584 x 396 px
+Profile image: 400 ? 400 px
+
+Google+:
+
+Cover image: 1080 x 608 px
+Profile image: 250 ? 250 px
