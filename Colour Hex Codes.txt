@@ -1,0 +1,9 @@
+light to dark 
+
+PURPLE		ORANGE	
+330065		ff6600
+2e005b		b34700
+
+BROWN (HAT)		Brown (Roots)
+663332			653300
+482424			5d2e00
