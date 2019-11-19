@@ -3041,6 +3041,7 @@ td, th {
   min-height: 84px;
   padding-left: 72px;
   position: relative;
+
 }
 
 .collection .collection-item.avatar:not(.circle-clipper) > .circle,
